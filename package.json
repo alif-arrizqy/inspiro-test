@@ -1,0 +1,14 @@
+{
+  "name": "inspiro",
+  "version": "1.0.0",
+  "description": "inspiro test nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alif-arrizqy",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
